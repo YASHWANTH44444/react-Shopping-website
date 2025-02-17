@@ -1,0 +1,14 @@
+.Products {
+    display: flex;
+    flex-wrap: wrap;
+    width: 95vm;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    background-color: pink;
+
+}
+.Product {
+    flex-grow: 1;
+}
